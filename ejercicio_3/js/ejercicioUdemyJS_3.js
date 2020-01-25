@@ -13,15 +13,15 @@
 
         
         }
-        
-        for (let i = numero_1; i < numero_2 ; i++){
-            if (i%2 != 0) {
-                console.log(i);
-                document.write(i + "<br>");
-               
+        document.write("Los números imapres son: ");
+        while (numero_1 < numero_2) {
+            numero_1++;
+            if(numero_1 %2 != 0){
+                document.writeln(numero_1);
+                console.log(numero_1);
+                
             }
         }
-
 
 
 
