@@ -1,0 +1,31 @@
+#divglobal{
+   background-color: black; 
+   width: 600px;
+   height: 200px;
+   padding: 40px;
+   margin: auto;
+   
+   
+}
+
+#div1{
+float: left;
+background-color: brown;
+padding: 10px;
+width: 200px;
+height: 200px;
+margin: auto;
+
+
+}
+
+
+#div2{
+background-color: chartreuse;
+float: right;
+width: 200px;
+height: 200px;
+padding: 10px;
+margin: auto;
+}
+
