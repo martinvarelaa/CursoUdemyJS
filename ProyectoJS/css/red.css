@@ -1,0 +1,16 @@
+#logo{
+    background: #CA3413;
+}
+body{
+    background: url(/img/rojo.jpg);
+    
+}
+.elementoMenu:hover{
+    background:#CA3413 ;
+}
+.botonLeerMas{
+    
+    background-color: #CA3413;
+   
+    
+    }

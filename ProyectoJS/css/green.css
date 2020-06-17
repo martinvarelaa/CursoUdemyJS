@@ -1,0 +1,16 @@
+#logo{
+    background: rgb(3, 90, 3);
+}
+body{
+    background: url(/img/hojas.jpg);
+    background-attachment: fixed;
+}
+.elementoMenu:hover{
+    background:green ;
+}
+.botonLeerMas{
+    
+    background-color: rgb(3, 90, 3) ;
+   
+    
+    }

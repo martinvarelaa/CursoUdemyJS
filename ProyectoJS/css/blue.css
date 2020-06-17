@@ -1,0 +1,16 @@
+#logo{
+    background: #1F87C4;
+}
+body{
+    background: url(/img/cielo.jpg);
+    
+}
+.elementoMenu:hover{
+    background: #1F87C4 ;
+}
+.botonLeerMas{
+    
+    background-color: #1F87C4 ;
+   
+    
+    }
